@@ -1,7 +1,7 @@
 {
   "name": "@metamask/template-snap",
-  "version": "0.7.0",
-  "description": "The 'Hello, world!' of MetaMask Snaps.",
+  "version": "0.7.1",
+  "description": "The 'Hello, world!' of MetaMask Snaps. View real time Gas Fee data.",
   "repository": {
     "type": "git",
     "url": "https://github.com/MetaMask/snap-template.git"

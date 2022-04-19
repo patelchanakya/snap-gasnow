@@ -19,7 +19,7 @@ wallet.registerRpcMessageHandler(async (originString, requestObject) => {
         method: 'snap_confirm',
         params: [
           {
-            prompt: `Hello, gas fees`,
+            prompt: `Hello, real time gas fees`,
             description:
               'This custom confirmation is just for display purposes.',
             textAreaContent:
