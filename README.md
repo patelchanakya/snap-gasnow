@@ -1,3 +1,9 @@
+https://www.youtube.com/watch?v=FFOTojECeWc&ab_channel=chanak
+
+Great tutorials here:
+5-min tutorial by Montoya: https://github.com/Montoya/gas-fee-snap#the-5-minute-snap-tutorial
+30-min tutorial: https://github.com/Montoya/address-book-snap-tutorial#the-30-minute-snap-tutorial
+
 # @metamask/template-snap
 
 The "Hello, world!" of MetaMask Snaps, and also a GitHub template repository.
