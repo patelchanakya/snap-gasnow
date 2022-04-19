@@ -1,8 +1,17 @@
 https://www.youtube.com/watch?v=FFOTojECeWc&ab_channel=chanak
 
-Great tutorials here:
+# Great tutorials here:
+
 5-min tutorial by Montoya: https://github.com/Montoya/gas-fee-snap#the-5-minute-snap-tutorial
+
 30-min tutorial: https://github.com/Montoya/address-book-snap-tutorial#the-30-minute-snap-tutorial
+
+# Quick Start after cloning
+
+yarn install
+yarn build
+yarn run serve
+_localhost:8080_
 
 # @metamask/template-snap
 
